@@ -1,0 +1,6 @@
+[2025-05-28 22:15:43,154] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2025-05-28 22:15:43,160] 107 dagshub - INFO - Accessing as ujjwalrajbgis
+[2025-05-28 22:15:43,562] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/ujjwalrajbgis/End-to-End-MLOps-Pipeline-for-Network-Security "HTTP/1.1 200 OK"
+[2025-05-28 22:15:43,932] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2025-05-28 22:15:43,933] 107 dagshub - INFO - Initialized MLflow to track repo "ujjwalrajbgis/End-to-End-MLOps-Pipeline-for-Network-Security"
+[2025-05-28 22:15:43,936] 107 dagshub - INFO - Repository ujjwalrajbgis/End-to-End-MLOps-Pipeline-for-Network-Security initialized!
